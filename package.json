@@ -1,0 +1,17 @@
+{
+  "name": "qrotp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "qrcode": "^1.4.4",
+    "webpack": "^5.28.0",
+    "webpack-cli": "^4.5.0"
+  }
+}
